@@ -1,0 +1,62 @@
+[CENTER][IMG]https://image.ibb.co/ja5YMF/CC_Banner.png[/IMG]
+[B][SIZE=5][COLOR=#ff0000][URL='https://jenkins.badbones69.com/view/Legacy/job/Crazy-Crates-Legacy/'] [/URL][/COLOR][/SIZE][/B]
+[COLOR=rgb(255, 0, 0)][SIZE=6][B]Legacy Support[/B][/SIZE][/COLOR]
+[SIZE=4]Legacy has been completely abandoned (1.8.8 - 1.18.2), There will no more updates so more time can be focused on the future.
+
+This is the last update for Legacy Support.[/SIZE]
+[SIZE=5][B][COLOR=#000000][URL]https://ci.badbones69.com/view/Legacy/job/CrazyCrates-Legacy/[/URL][/COLOR][/B][/SIZE][/CENTER]
+
+[LEFT][B][FONT=Georgia][SIZE=6][COLOR=rgb(64, 64, 64)]Description:[/COLOR][/SIZE][/FONT][/B]
+[FONT=Georgia][COLOR=rgb(128, 128, 128)]Welcome to the Crazy Crates Spigot Page. This is a free plugin that allows you to add unlimited amounts of crates to your server. This plugin contains 10 different crate types for loads of awesome crates for your players to open.[/COLOR][/FONT]
+
+[FONT=Georgia][SIZE=6][COLOR=rgb(64, 64, 64)][B][I]Crate Type Previews[/I]: [/B][/COLOR][/SIZE][/FONT][U][COLOR=rgb(128, 128, 128)][SIZE=5][FONT=Georgia][URL]https://imgur.com/a/Sfd8OlU[/URL][/FONT][/SIZE][/COLOR][/U]
+[FONT=Georgia]
+[SIZE=5][COLOR=rgb(64, 64, 64)][U][I]Can't find out how to change a crate's crate type?[/I][/U][/COLOR][/SIZE]
+[SIZE=7][U][B][URL='https://github.com/Crazy-Crew/Crazy-Crates/wiki/Q&A#q2-the-description-said-there-are-10-different-crate-types-but-the-default-has-only-4-crates-in-the-crates-folder']FAQ[/URL][/B][/U][/SIZE][/FONT]
+
+[FONT=Book Antiqua][SIZE=6][COLOR=rgb(64, 64, 64)][B]Videos:[/B][/COLOR][/SIZE][/FONT]
+[SPOILER="Videos"]
+English
+[MEDIA=youtube]O7fnAetUuBU[/MEDIA]
+[MEDIA=youtube]7TuAHzUNk2k[/MEDIA]
+[MEDIA=youtube]j3eym6L4RlM[/MEDIA]
+
+Spanish
+[MEDIA=youtube]wb-3uvbOjY4[/MEDIA]
+[MEDIA=youtube]TIhrupLH9wE[/MEDIA]
+
+Russian
+[MEDIA=youtube]6leAjCg4-1M[/MEDIA]
+[/SPOILER]
+
+
+[FONT=Georgia][SIZE=6][COLOR=rgb(64, 64, 64)][B]Features:[/B][/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(128, 128, 128)]  - Physical and virtual crates and keys.
+  - 10 Different types of crates
+  - Easy to use crate config
+  - Unlimited crates
+  - Awesome animations
+  - And Much More[/COLOR][/SIZE][/FONT]
+
+[FONT=Georgia][SIZE=6][COLOR=rgb(64, 64, 64)][B]Commands and Permissions:[/B][/COLOR][/SIZE][/FONT]
+[U][COLOR=rgb(128, 128, 128)][URL='https://github.com/Crazy-Crew/Crazy-Crates/wiki/Commands-and-Permissions']https://github.com/Crazy-Crew/CrazyCrates/wiki/Commands-and-Permissions[/URL][/COLOR][/U]
+
+[FONT=Georgia][SIZE=6][COLOR=rgb(64, 64, 64)][B]Placeholders:[/B][/COLOR][/SIZE][/FONT]
+[U][COLOR=rgb(128, 128, 128)][URL='https://github.com/Crazy-Crew/Crazy-Crates/wiki/Placeholders']https://github.com/Crazy-Crew/CrazyCrates/wiki/Placeholders[/URL][/COLOR]
+[/U]
+[FONT=Book Antiqua][SIZE=7][COLOR=rgb(64, 64, 64)][B]Default Crates:[/B][/COLOR][/SIZE][/FONT][/LEFT]
+[URL='https://github.com/Crazy-Crew/Crazy-Crates/tree/master/plugin/src/main/resources'][U]https://github.com/Crazy-Crew/CrazyCrates/tree/master/plugin/src/main/resources[/U][/URL]
+[LEFT][/LEFT]
+[CENTER]
+[B][I][COLOR=rgb(77, 166, 255)][URL='https://github.com/sponsors/Crazy-Crew'][IMG]https://image.ibb.co/jGrwaa/Donate_250x250.png[/IMG]   [/URL]
+[/COLOR][/I][/B]
+[IMG]https://image.ibb.co/cvQ01F/GitHub.png[/IMG]
+[B][I][COLOR=rgb(77, 166, 255)][FONT=Georgia][SIZE=7][COLOR=rgb(128, 128, 128)][I][B][U][URL='https://github.com/Crazy-Crew/CrazyCrates']Source Code[/URL][/U][/B][/I][/COLOR][/SIZE][/FONT][/COLOR][/I][/B]
+
+[B][I][COLOR=rgb(77, 166, 255)][B][FONT=Book Antiqua][SIZE=6][COLOR=rgb(128, 128, 128)]Want to live chat? Join my Discord server.[/COLOR][/SIZE][/FONT][/B][/COLOR]
+[COLOR=rgb(77, 166, 255)][URL='http://discord.badbones69.com'][IMG]https://image.ibb.co/kqtbaa/Discord_Logo_Wordmark_Black.png[/IMG]  [/URL]
+[B][FONT=Book Antiqua][SIZE=7][URL='https://discord.gg/crazycrew'][COLOR=rgb(128, 128, 128)]>>[/COLOR][COLOR=rgb(0, 0, 0)]Join Now[/COLOR][COLOR=rgb(128, 128, 128)]<<[/COLOR][/URL][/SIZE][/FONT][/B][/COLOR][/I][/B][/CENTER]
+
+[CENTER][FONT=Georgia][SIZE=7][COLOR=rgb(255, 128, 0)][URL='https://billing.apexminecrafthosting.com/aff.php?aff=5511']Server Partner:[/URL][/COLOR][/SIZE]
+[SIZE=5]Looking for a new server host or wanting to switch? Consider checking out my server partner Apex Hosting.[/SIZE][/FONT]
+[URL='https://billing.apexminecrafthosting.com/aff.php?aff=5511'][IMG]https://i.imgur.com/cRiNXqN.png[/IMG][/URL][/CENTER]

@@ -1,0 +1,44 @@
+[CENTER][IMG]https://image.ibb.co/nr5pva/Vouchers_Banner.png[/IMG][/CENTER]
+
+[CENTER][COLOR=rgb(255, 0, 0)][SIZE=6][B]Legacy Support[/B][/SIZE][/COLOR]
+[SIZE=4]Legacy has been completely abandoned (1.8.8 - 1.18.2), There will no more updates so more time can be focused on the future.
+
+This is the last update for Legacy Support.[/SIZE]
+[SIZE=5][B][COLOR=#000000][URL]https://ci.badbones69.com/view/Legacy/job/Vouchers/[/URL][/COLOR][/B]
+[/SIZE][/CENTER]
+[LEFT][FONT=Georgia][SIZE=6][COLOR=rgb(255, 128, 0)]Description:[/COLOR][/SIZE]
+[COLOR=rgb(128, 128, 128)]Welcome to Vouchers. This plugin will allow you to set Commands to a piece of paper or whatever item you choose. When the player right clicks it gives runs that command for them. This is very useful for Prizes, Crates, and for just giving someone something. You create the Voucher in the Config.yml and then the player can use the vouchers.[/COLOR][/FONT][/LEFT]
+[CENTER]
+[FONT=Georgia][SIZE=7][COLOR=rgb(0, 179, 0)][I][B]Videos[/B][/I]
+[I][B][SPOILER="Videos"][/SPOILER][/B][SPOILER="Videos"][/spoiler][/I][SPOILER="Videos"][/spoiler][/COLOR][SPOILER="Videos"][/spoiler][/SIZE][SPOILER="Videos"]
+[SIZE=4][COLOR=rgb(128, 128, 128)][I][B]English[/B][/I][/COLOR][/SIZE]
+[I][B][FONT=Georgia][COLOR=rgb(128, 128, 128)][MEDIA=youtube]cGcZm9NKdpg[/MEDIA][/COLOR][/FONT][/B][/I][/SPOILER][/FONT][SPOILER="Videos"][/SPOILER]
+
+[/CENTER]
+[LEFT][FONT=Georgia][SIZE=6][COLOR=rgb(255, 128, 0)]Commands and Permissions:[/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(255, 0, 0)][URL]https://github.com/Crazy-Crew/Vouchers/wiki/Commands-and-Permissions[/URL][/COLOR][/SIZE][/FONT][/LEFT]
+
+[LEFT][FONT=Georgia][SIZE=6][COLOR=rgb(255, 128, 0)]Default Files:[/COLOR][/SIZE]
+[SIZE=5][COLOR=rgb(255, 0, 0)][URL]https://github.com/Crazy-Crew/Vouchers[/URL][/COLOR][/SIZE][/FONT][/LEFT]
+
+[CENTER]
+
+[B][I]
+[COLOR=rgb(77, 166, 255)][B][FONT=Georgia][SIZE=6][COLOR=rgb(128, 128, 128)]Want to live chat? Join my Discord server.[/COLOR][/SIZE][/FONT][/B][/COLOR]
+[COLOR=rgb(77, 166, 255)][FONT=Georgia][URL='http://discord.gg/crazycrew'][IMG]https://image.ibb.co/kqtbaa/Discord_Logo_Wordmark_Black.png[/IMG]  [/URL][/FONT]
+[B][FONT=Georgia][SIZE=7][URL='http://discord.badbones69.com'][COLOR=rgb(128, 128, 128)]>>[/COLOR][COLOR=rgb(0, 0, 0)]Join Now[/COLOR][COLOR=rgb(128, 128, 128)]<<[/COLOR][/URL][/SIZE][/FONT][/B][/COLOR][/I][/B]
+
+[FONT=Georgia][SIZE=7][COLOR=rgb(255, 128, 0)][URL='https://billing.apexminecrafthosting.com/aff.php?aff=5511']Server Partner:[/URL][/COLOR][/SIZE]
+[SIZE=5]Looking for a new server host or wanting to switch? Consider checking out my server partner Apex Hosting.[/SIZE][/FONT]
+[URL='https://billing.apexminecrafthosting.com/aff.php?aff=5511'][IMG]https://i.imgur.com/cRiNXqN.png[/IMG][/URL]
+[/CENTER]
+[LEFT][B][U][SIZE=5]By buying this you agree to the following:[/SIZE][/U][/B][/LEFT]
+[LIST]
+[*][LEFT][U][I][COLOR=rgb(128, 128, 128)]You will not re-upload this to any website.[/COLOR][/I][/U][/LEFT]
+[*][LEFT][U][I][COLOR=rgb(128, 128, 128)]You will not chargeback.[/COLOR][/I][/U][/LEFT]
+[*][LEFT][I][U][COLOR=#808080]If you wish to get a refund, then PM me and we can discuss it.[/COLOR][/U][/I][/LEFT]
+[/LIST]
+[CENTER][U][B][COLOR=rgb(255, 77, 77)]Violating any of these can get you removed from the buyer's list and not get your money back.
+[/COLOR][/B][/U][/CENTER]
+[LEFT][FONT=Georgia][SIZE=6][COLOR=rgb(255, 128, 0)][I]Credits:[/I][/COLOR][/SIZE]
+[COLOR=rgb(64, 64, 64)]This plugin as of v1.6.5 uses [URL='https://www.spigotmc.org/members/tr7zw.27296/'][U]@tr7zw's[/U][/URL] [URL='https://www.spigotmc.org/resources/item-entity-tile-nbt-api.7939/'][U]NBT API[/U][/URL]. Make sure to check it out as it allows Vouchers to much easier find out what voucher is what with NBT tags and helo lower lag by skipping the old longer prosses of getting the vouchers information. But if the voucher doesn't have the NBT tags it still will use the old method to find out the vouchers information.[/COLOR][/FONT][/LEFT]
